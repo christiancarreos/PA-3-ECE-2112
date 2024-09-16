@@ -13,10 +13,10 @@ Objectives:
 
 3. PROBLEM 2:
 
-a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
-b. Display the row that contains the ‘Model’ of ‘Mazda RX4’.
-c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
-d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4
+Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
+Display the row that contains the ‘Model’ of ‘Mazda RX4’.
+How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
+Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4
 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
 
