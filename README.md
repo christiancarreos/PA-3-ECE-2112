@@ -7,10 +7,12 @@ Objectives:
 
 # Problem
 1. PROBLEM 1:
-\n a. Load the corresponding .csv file into a data frame named cars using pandas
+
+a. Load the corresponding .csv file into a data frame named cars using pandas
 b. Display the first five and last five rows of the resulting cars.
 
-2. PROBLEM 2: 
+3. PROBLEM 2:
+
 a. Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7...) of cars.
 b. Display the row that contains the ‘Model’ of ‘Mazda RX4’.
 c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
