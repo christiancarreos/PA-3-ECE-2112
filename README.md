@@ -8,8 +8,8 @@ Objectives:
 # Problem
 1. PROBLEM 1:
 
-a. Load the corresponding .csv file into a data frame named cars using pandas
-b. Display the first five and last five rows of the resulting cars.
+ Load the corresponding .csv file into a data frame named cars using pandas.
+ Display the first five and last five rows of the resulting cars.
 
 3. PROBLEM 2:
 
